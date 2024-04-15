@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
+    "name": "Luis Fernando Estrada Ramos",
     "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "email": "esluis97@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "18001",
+      "city": "Fronteras, Livingston",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Guatemala"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://linkedin.com/in/mellamoluis16"
       },
       {
         "network": "X",
@@ -27,14 +27,14 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Mellamoluis9",
+        "url": "https://github.com/Mellamoluis9"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
+      "name": "Fernando",
       "position": "Divulgador sobre Programación Web",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
